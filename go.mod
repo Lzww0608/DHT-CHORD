@@ -5,6 +5,7 @@ go 1.22.7
 toolchain go1.23.2
 
 require (
+	github.com/franela/goblin v0.0.0-20211003143422-0a4f594942bf
 	github.com/sirupsen/logrus v1.9.3
 	google.golang.org/grpc v1.68.0
 	google.golang.org/protobuf v1.35.1
